@@ -1,0 +1,2 @@
+# fastwebsite
+GitHub Pages
